@@ -1,0 +1,8 @@
+section {
+    height: 100vh;
+    background:  rgb(88 , 158 , 143) url(../img/Pic_basic\ background_sea_shore.jpeg) no-repeat center center/cover;
+
+}
+
+/* 'CENTER CENTER' - 1st center ist X achse (HORIZONTAL), zweite Y ACHSE (vertikal)
+'COVER' */
